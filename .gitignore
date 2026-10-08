@@ -1,0 +1,43 @@
+# =========================
+# C++ Build Files
+# =========================
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug / compiled files
+*.d
+*.gch
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# OS Generated Files
+# =========================
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# =========================
+# Temporary / Backup Files
+# =========================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
